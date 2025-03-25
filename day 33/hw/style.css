@@ -1,0 +1,17 @@
+.site-title{
+    text-align: center;
+    background-color: aqua;
+}
+
+.site-footer{
+    text-align: center;
+    background-color: green;
+}
+
+a{
+    color: orangered;
+}
+
+.highlight{
+    background-color: chartreuse;
+}

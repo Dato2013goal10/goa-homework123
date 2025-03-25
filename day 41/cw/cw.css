@@ -1,0 +1,11 @@
+.first_last{
+    list-style: georgian inside none
+}
+
+li:nth-child(odd){
+    list-style: lower-roman outside none;
+}
+
+li:nth-child(even){
+    list-style: lower-greek inside none;
+}

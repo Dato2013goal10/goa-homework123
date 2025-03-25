@@ -1,0 +1,44 @@
+#button0{
+    color: #ff00ff;
+    background-color: #00ffff;
+}
+
+#button1{
+    color: #ca00ca93;
+    background-color: #e78d05;
+}
+
+#button2{
+    color: #ff0000;
+    background-color: #76773c;
+}
+
+#button3{
+    color: #44fa72;
+    background-color: #924eff;
+}
+
+#button4{
+    color: #fad179;
+    background-color: #4c5f20;
+}
+
+
+#div_block{
+    height: 1000px;
+    width: 500;
+    background-color: blue;
+    color: coral;
+}
+
+#div_block1{
+    height: 600px;
+    width: 70%;
+    background-color: #fad171;
+}
+
+#baby_div_block{
+    height: 10%;
+    width: 25%;
+    background-color: #ca00ca93;
+}

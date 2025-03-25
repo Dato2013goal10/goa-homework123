@@ -1,0 +1,15 @@
+#color-box{
+    background-color: rgb(200, 150, 255);
+}
+
+#color-text{
+    color: rgb(255, 100, 100);
+}
+
+.color-text1{
+    color: rgb(rgb(100, 255, 100));
+}
+
+.color-text2{
+    color: rgb(100, 100, 255)
+}

@@ -1,0 +1,42 @@
+#Header{
+    background-color: #9bce0b;
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 100px;
+}
+
+#Article{
+    background-color: #fff;
+    display: inline-block;
+    justify-content: flex-start;
+    align-items: flex-start;
+    height: 400px;
+    width: 1296px;
+}
+
+#Aside{
+    background-color: #f7f5d8;
+    display: inline-block;
+    justify-content: center;
+    align-items: top;
+    height: 400px;
+    width: 300px;
+}
+
+#Nav{
+    background-color: #d5e8d4;
+    display: inline-block;
+    justify-content: flex-end;
+    align-items: top;
+    height: 400px;
+    width: 300px;
+}
+
+#Footer{
+        background-color: #9bce0b;
+        display: flex;
+        justify-content: flex-start;
+        align-items: flex-start;
+        height: 100px;
+}

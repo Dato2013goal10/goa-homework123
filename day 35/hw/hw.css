@@ -1,0 +1,127 @@
+#green{
+    color:#00ff00;
+}
+
+#rgb_black_and_blue{
+    color: rgb(0, 0, 0);
+    background-color: rgb(0, 0, 255);
+}
+
+#rgb_blue_and_green{
+    color: rgb(0, 0, 255);
+    background-color: rgb(0, 255, 0);
+}
+
+#rgb_green_and_white{
+    color: rgb(0, 255, 0);
+    background-color: rgb(255, 255, 255);
+}
+
+#rgb_white_and_yellow{
+    color: rgb(255, 255, 255);
+    background-color: rgb(255, 255, 0);
+}
+
+#rgb_yellow_and_purple{
+    color: rgb(255, 255, 0);
+    background-color: rgb(255, 0, 255);
+}
+
+#hex_purple_and_black{
+    color:#ff00ff;
+    background-color: #000000;
+}
+
+#hex_black_and_cyan{
+    color: #000000;
+    background-color: #00ffff;
+}
+
+#hex_cyan_and_white{
+    color: #00ffff;
+    background-color: #ffffff;
+}
+
+#hex_white_and_black{
+    color: #ffffff;
+    background-color: #000000;
+}
+
+
+#hex_black_and_green{
+    color:#000000;
+    background-color: #00ff00;
+}
+
+#div_block{
+    height: 1000px;
+    width: 1000px;
+    background-color: #00ff00;
+}
+
+#child_div_block{
+    width: 20%;
+    height: 15%;
+    background-color: #000000;
+}
+
+
+#black_div_block {
+    background-color: #000000;
+    width: 100px;
+    height: 100px;
+}
+
+#white_div_block {
+    background-color: #ffffff;
+    width: 100px;
+    height: 100px;
+}
+
+#red_div_block {
+    background-color: #ff0000;
+    width: 100px;
+    height: 100px;
+}
+
+#green_div_block {
+    background-color: #008000;
+    width: 100px;
+    height: 100px;
+}
+
+#blue_div_block {
+    background-color: #0000ff;
+    width: 100px;
+    height: 100px;
+}
+
+#purple_div_block {
+    background-color: #800080;
+    width: 100px;
+    height: 100px;
+}
+
+#yellow_div_block {
+    background-color: #ffff00;
+    width: 100px;
+    height: 100px;
+}
+
+#orange_div_block {
+    background-color: #ffa500;
+    width: 100px;
+    height: 100px;
+}
+
+#pink_div_block {
+    background-color: #ffc0cb;
+    width: 100px;
+    height: 100px;
+}
+
+#gray_div_block {
+    background-color: #808080;
+    width: 100px;
+    height: 100px;
+}

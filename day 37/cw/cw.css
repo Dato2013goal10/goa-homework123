@@ -1,0 +1,74 @@
+#hello {
+    color: #008000;
+    font-weight: bold;
+    text-align: right;
+    text-decoration: underline;
+}
+
+#world {
+    text-decoration: line-through;
+    font-weight: bold;
+    color: #000000;
+}
+
+#goal {
+    font-weight: bold;
+    font-size: 20px;
+    color: #000000;
+}
+
+#oriented {
+    font-style: italic;
+    color: #008000;
+}
+
+#academy {
+    font-weight: bold;
+    text-decoration: underline;
+    color: #000000;
+}
+
+#is {
+    text-decoration: underline;
+    color: #000000;
+}
+
+#the {
+    text-decoration: underline;
+    color: #008000;
+}
+
+
+#best {
+    font-weight: bold;
+    color: #808080;
+    text-decoration: line-through;
+    font-size: 22px;
+    text-decoration-color: #000000;
+}
+
+#one {
+    text-decoration: underline;
+    color: #008000;
+}
+
+p{
+    color: #ffffff;
+}
+
+
+#div-block0{
+    background-color: #b6b6b6;
+}
+
+#p-1{
+    text-shadow: 5px 4px 2px #ffffff;
+}
+
+#p-2{
+    text-shadow: 4px 6px 2px #000000;
+}
+
+#p-3{
+    text-shadow: -6px -3px 2px #808080;
+}
