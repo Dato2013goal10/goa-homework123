@@ -1,0 +1,108 @@
+body{
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+}
+
+#changecolor{
+    width: 50px;
+    height: 50px;
+    background-color: yellow;
+    border-radius: 25%;
+}
+
+#changecolor:hover{
+    background-color: yellowgreen;
+    transition:2s;
+}
+
+.transition-link {
+    text-decoration: none;
+    color: #007BFF;
+    transition: color 0.4s ease;
+  }
+  
+  .transition-link:hover {
+    color: #FF4500;
+  }
+  
+  .scale-image {
+    width: 150px;
+    transition: transform 0.3s ease;
+  }
+  
+  .scale-image:hover {
+    transform: scale(1.05);
+  }
+  
+  .hover-paragraph {
+    transition: color 0.5s ease;
+  }
+  
+  .hover-paragraph:hover {
+    color: #8A2BE2;
+  }
+  
+  .border-box {
+    padding: 10px;
+    border: 2px solid #333;
+    width: fit-content;
+    transition: border-width 0.3s ease;
+  }
+  
+  .border-box:hover {
+    border-width: 5px;
+  }
+  
+  .press-button {
+    padding: 10px 20px;
+    font-size: 16px;
+    transition: transform 0.1s ease;
+    cursor: pointer;
+  }
+  
+  .press-button:active {
+    transform: scale(0.95);
+  }
+  
+  .fade-div {
+    padding: 10px;
+    background: #eee;
+    transition: opacity 0.5s ease;
+  }
+  
+  .fade-div:hover {
+    opacity: 0.5;
+  }
+  
+  .padding-box {
+    background: #ddd;
+    padding: 10px;
+    transition: padding 0.3s ease;
+  }
+  
+  .padding-box:hover {
+    padding: 20px;
+  }
+  
+  .rotate-icon {
+    font-size: 2rem;
+    display: inline-block;
+    transition: transform 0.3s ease;
+  }
+  
+  .rotate-icon:hover {
+    transform: rotate(15deg);
+  }
+  
+  .shadow-card {
+    padding: 20px;
+    background: white;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+    transition: box-shadow 0.3s ease;
+    }
+
+    .shadow-card:hover {
+    box-shadow: 0 6px 15px rgba(0,0,0,0.4);
+    }

@@ -1,0 +1,35 @@
+#yellow{
+    width: 100px;
+    height: 100px;
+    animation-name: big;
+    animation-duration: 10s;
+    background-color: yellow;
+    border-radius: 50%;
+}
+
+@keyframes big{
+    0%{
+        width: 100px;
+        height: 100px;
+    }
+    20%{
+        width: 350px;
+        height: 350px;
+    }
+    40%{
+        width: 100px;
+        height: 100px;
+    }
+    60%{
+        width: 350px;
+        height: 350px;
+    }
+    80%{
+        width: 100px;
+        height: 100px;
+    }
+    100%{
+        width: 350px;
+        height: 350px;
+    }
+}

@@ -1,0 +1,14 @@
+#parent{
+    width: 500px;
+    height: 500px;
+    background-color: green;
+}
+
+#parent:hover{
+    scale: 2;
+    transform: rotate(45deg);
+}
+
+#parent:active{
+    transform: translate(-50,-100);
+}

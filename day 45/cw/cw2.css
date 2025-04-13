@@ -1,0 +1,43 @@
+#parent{
+    width: 100%;
+    height: 100vh;
+    position: relative;
+}
+
+#parent div{
+    position: absolute;
+    height: 200px;
+    width: 250px;
+    color: white;
+
+}
+
+#red{
+    background-color: red;
+    top: 0px;
+    left: 0px;
+}
+
+#green{
+    background-color: green;
+    top: 0px;
+    right: 0px;
+}
+
+#blue{
+    background-color: blue;
+    bottom: 0px;
+    left: 0px;
+}
+
+#purple{
+    background-color: purple;
+    bottom: 0px;
+    right: 0px;
+}
+
+#gray{
+    background-color: gray;
+    top: 275px;
+    left: 750px;
+}
