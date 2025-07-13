@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <p id="message">message</p>
+
+    <form onsubmit="writeInfo(event)">
+        <input type="text" id="text">
+        <button type="submit">submit</button>
+    </form>
+
+    <form onsubmit="colorChange(event)">
+        <label for="coloring">enter your favourite color</label>
+        <input type="color" id="coloring">
+        <button type="submit">submit</button>
+    </form>
+
+    <form onsubmit="FirstNLastName(event)">
+        <label for="FName">Enter your first name:</label>
+        <input type="text" id="FName"> <br>
+        <label for="LName">enter your last name:</label>
+        <input type="text" id="LName"> <br>
+        <button type="submit">submit</button>
+    </form>
+
+    <h1 id="FNameNLName">First Name and Last Name</h1>
+
+    <script src="hw.js"></script>
+</body>
+</html>
