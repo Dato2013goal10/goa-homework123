@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="ka">
+<head>
+<meta charset="UTF-8">
+<title>ვერტიკალური ანიმაცია + Counter</title>
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        text-align: center;
+        margin-top: 30px;
+        background: #f0f0f0;
+        height: 100vh;
+    }
+
+    #myBox {
+        width: 100px;
+        height: 100px;
+        background-color: #ff5733;
+        position: absolute;
+        border-radius: 10px;
+        left: calc(50% - 50px);
+        top: 0;
+    }
+
+    #count {
+        font-size: 24px;
+        font-weight: bold;
+        margin-top: 200px;
+    }
+
+    button {
+        padding: 10px 20px;
+        margin: 5px;
+        font-size: 18px;
+        cursor: pointer;
+    }
+</style>
+</head>
+<body>
+
+<h2>ვერტიკალური ანიმაცია</h2>
+<div id="myBox"></div>
+
+<h2>Counter ფუნქცია</h2>
+<p id="count">0</p>
+<button id="plus">+1</button>
+<button id="minus">-1</button>
+
+<script src="hw.js"></script>
+</body>
+</html>
