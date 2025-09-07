@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Sora:wght@100..800&display=swap');
+
+body{
+    background-color: #0074d9;
+    color: #ffffff;
+    text-align: center;
+    font-family: 'sora';
+    }
+
+/* #logo-div{
+    height: 250px;
+    width: 250px;
+} */
+
+#logo{
+    width: 200px;
+    height: 200px;
+}
+
+#log{
+    width: 65px;
+    height: 50px;
+    border-radius: 20%;
+}
+
+#reg{
+        font-family: "kanit";
+        margin: 12px;
+        height: 50px;
+        width: 120px;
+        border-radius: 10px;
+        background: #0075d4;
+        justify-content: center;
+        align-items: center;
+        box-shadow: -5px -5px 15px #034580, 5px 5px 15px #034580, inset 5px 5px 10px #034580,
+        inset -5px -5px 10px #034580;
+        border: none;
+        font-size: 16px;
+        color: #fff;
+        transition: 500ms;
+    }
+
+    #reg:hover{
+        background-color: #fff;
+        scale: 1.2;
+        color: #034580;
+        transition: 500ms;
+        font-family: "kanit";
+    }
+
+    #log{
+        font-family: "kanit";
+        margin: 12px;
+        height: 50px;
+        width: 120px;
+        border-radius: 10px;
+        background: #0075d4;
+        justify-content: center;
+        align-items: center;
+        box-shadow: -5px -5px 15px #034580, 5px 5px 15px #034580, inset 5px 5px 10px #034580,
+        inset -5px -5px 10px #034580;
+        border: none;
+        font-size: 16px;
+        color: #fff;
+        transition: 500ms;
+    }
+
+#log:hover{
+    background-color: #fff;
+    scale: 1.2;
+    color: #034580;
+    transition: 500ms;
+    font-family: "kanit";
+}
+
+    #shirts{
+        border-radius: 25%;
+        width: 350px;
+        height: 400px;
+    }
