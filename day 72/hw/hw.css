@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    background-color: black;
+    height: 100vh;
+}
+
+#box{
+    background-color: darkgreen;
+    position: absolute;
+    width: 100px;
+    height: 100px;
+}
