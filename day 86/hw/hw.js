@@ -36,7 +36,7 @@
 //     const keys = Object.keys(obj);
 //     const keyCount = keys.length;
 //     const hasGpu = keys.includes("gpu");
-    
+
 //     console.log(keyCount);
 //     console.log(hasGpu);
 
